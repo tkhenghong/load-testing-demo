@@ -1,0 +1,1 @@
+import{t as r,x as a,j as n,T as o}from"./index-DmPiyxan.js";var i=r("<main><h1>About");function s(){return(()=>{var t=i(),e=t.firstChild;return a(t,n(o,{children:"About"}),e),t})()}export{s as default};
